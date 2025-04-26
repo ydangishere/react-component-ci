@@ -12,3 +12,5 @@ This project demonstrates a simple React component setup with:
 - `npm test`: Run Jest tests
 
 Push code changes to GitHub to trigger CI.
+Test trigger GitHub Action
+
