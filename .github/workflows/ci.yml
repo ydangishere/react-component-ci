@@ -2,7 +2,7 @@ name: React CI with Jest
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 jobs:
   build:
