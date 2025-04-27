@@ -1,5 +1,4 @@
-import { Card } from "@/components/ui/card";
-// import { Card } from '@/components/ui/card';
+
 export default function HelloWorld() {
   return (
     <div className="p-6 text-center">
