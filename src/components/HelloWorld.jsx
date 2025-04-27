@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; // thêm dòng này vào đầu tiên
 
 export default function HelloWorld() {
   return (
